@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <Id>com.michaelpace.replacemidiwithaudio</Id>
+  <Version>1.0</Version>
+  <Author>Michael Pace [mpace1027@gmail.com]</Author>
+  <Name>replacemidiwithaudio</Name>
+  <Category>Convenience</Category>
+  <Description>A XRNX tool to use after recording an audio sample generated from midi notes in the current track. Mutes the track and groups it with a new track containing the newly recorded audio. Preserves effects from the original track.</Description>
+  <Homepage>http://scripting.renoise.com</Homepage>
+  <Platform>Windows, Mac, Linux</Platform>
+</RenoiseScriptingTool>
